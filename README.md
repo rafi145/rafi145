@@ -22,7 +22,7 @@
 
 ## 📂 Projects
 
-###🎮 Minesweepers Game in Java
+### 🎮 Minesweepers Game in Java
 A terminal-based Minesweeper game developed in Java, featuring customizable grid sizes, difficulty levels, and real-time user interaction. Built to deepen understanding of object-oriented programming, game logic structuring, user input handling, and Java’s standard libraries.
 
 ---
